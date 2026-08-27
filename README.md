@@ -22,3 +22,14 @@
 ![واجهة 1](images/Screenshot_1.png)  
 ![واجهة 2](images/Screenshot_2.png)  
 ![واجهة 3](images/Screenshot_4.png)
+
+
+---
+
+## 📄 License
+
+Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
+
+This project is licensed under the **MIT License**.
+
+---
