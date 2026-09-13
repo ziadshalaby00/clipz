@@ -17,12 +17,9 @@
 
 ---
 
-### 🖼️ **صور من التطبيق**
-
-![واجهة 1](images/Screenshot_1.png)  
-![واجهة 2](images/Screenshot_2.png)  
-![واجهة 3](images/Screenshot_4.png)
-
+<p align="center">
+  <img src="images/Screenshot_4.png">
+</p>
 
 ---
 
