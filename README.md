@@ -21,12 +21,5 @@
   <img src="images/Screenshot_4.png">
 </p>
 
----
-
-## 📄 License
-
-Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
-
-This project is licensed under the **MIT License**.
 
 ---
